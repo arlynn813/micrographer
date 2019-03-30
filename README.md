@@ -2,7 +2,7 @@ Micrographer
 by Andrew Lynn and Alex Matus
 
 PARTS:
-  STM32F0x1 (microcontroller),
+  STM32F0-Discovery (microcontroller),
   CFAL1602 (lcd display),
   3x4 Matrix Keypad (x2),
   Adafruit 32x32 RGB LED Matrix.
